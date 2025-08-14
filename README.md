@@ -36,7 +36,7 @@
 
 ###
 
-<h4 align="left">Hello World!!<br>Sou Anna Júlia Carletti, estudante do 2° semestre de Análise e Desenvolvimento de Sistemas na Facens. Tenho grande interesse pela área de desenvolvimento.  👩🏻‍💻<br><br>Atualmente tenho conhecimentos em Python, Java, C++ e JavaScript. Além disso, estou me aprofundado em cada vez mais linguagens. <br><br>Sou dedicada, curiosa e apaixonada por aprender. Acredito que a prática e  o desenvolvimento contínuo são essenciais para crescer profissionalmente na área de TI.</h4>
+<h4 align="left">Hello World!!<br>Sou Anna Júlia Carletti, estudante do 2° semestre de Análise e Desenvolvimento de Sistemas na Facens. Tenho grande interesse pela área de desenvolvimento.  👩🏻‍💻<br><br>Atualmente tenho conhecimentos em Python, Java, C++ e JavaScript. Além disso, estou me aprofundando em cada vez mais linguagens. <br><br>Sou dedicada, curiosa e apaixonada por aprender. Acredito que a prática e  o desenvolvimento contínuo são essenciais para crescer profissionalmente na área de TI.</h4>
 
 ###
 
